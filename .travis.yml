@@ -1,8 +1,8 @@
 language: ruby
 rvm:
   - 2.2.0
-  - minitest
 script:
+  - gem install minitest
   - ruby *test.rb
 notifications:
     email: false
