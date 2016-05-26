@@ -3,6 +3,6 @@ class HelloWorld
        #
        # YOUR CODE GOES HERE
        #
-       puts "Hello, World!"
+       'Hello, World!'
    end
 end
