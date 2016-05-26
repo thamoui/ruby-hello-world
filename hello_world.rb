@@ -1,7 +1,11 @@
 class HelloWorld
-   def self.hello
+   def initialize
        #
        # YOUR CODE GOES HERE
        #
+       puts "Hello, World!"
    end
 end 
+
+HelloWorld.new
+
